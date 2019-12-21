@@ -1,14 +1,15 @@
 /*******************************************************
  * Copyright (C) 2015 Haotian Wu
- * 
+ *
  * This file is the solution to the question:
  * https://www.hackerrank.com/challenges/staircase
- * 
+ *
  * Redistribution and use in source and binary forms are permitted.
  *******************************************************/
 #include <cmath>
 #include <cstdio>
 #include <vector>
+#include <iostream>
 #include <iostream>
 #include <algorithm>
 using namespace std;

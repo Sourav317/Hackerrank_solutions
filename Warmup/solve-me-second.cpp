@@ -1,9 +1,9 @@
 /*******************************************************
  * Copyright (C) 2015 Haotian Wu
- * 
+ *
  * This file is the solution to the question:
  * https://www.hackerrank.com/challenges/solve-me-second
- * 
+ *
  * Redistribution and use in source and binary forms are permitted.
  *******************************************************/
 #include <cmath>

@@ -1,11 +1,3 @@
-/*******************************************************
- * Copyright (C) 2015 Haotian Wu
- * 
- * This file is the solution to the question:
- * https://www.hackerrank.com/challenges/identify-smith-numbers
- * 
- * Redistribution and use in source and binary forms are permitted.
- *******************************************************/
 #include <cmath>
 #include <cstring>
 #include <cstdio>
