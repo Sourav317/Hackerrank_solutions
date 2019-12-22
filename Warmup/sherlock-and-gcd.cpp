@@ -1,11 +1,4 @@
-/*******************************************************
- * Copyright (C) 2015 Haotian Wu
- *
- * This file is the solution to the question:
- * https://www.hackerrank.com/challenges/sherlock-and-gcd
- *
- * Redistribution and use in source and binary forms are permitted.
- *******************************************************/
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -13,6 +6,8 @@
 #include <algorithm>
 using namespace std;
 
+
+///by helix32
 int gcd(int a, int b)
 {
     while (a%b!=0)
@@ -24,9 +19,6 @@ int gcd(int a, int b)
     return b;
 }
 int main() {
-    // Why bother looking at a "subset"? We just look at the whole array.
-    // In short, it is asking if the GCD of the array is 1.
-    // We use Euclid's algorithm for GCD calculation.
     int tt;
     scanf("%d",&tt);
     while (tt--)

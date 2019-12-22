@@ -1,11 +1,4 @@
-/*******************************************************
- * Copyright (C) 2015 Haotian Wu
- *
- * This file is the solution to the question:
- * https://www.hackerrank.com/challenges/the-love-letter-mystery
- *
- * Redistribution and use in source and binary forms are permitted.
- *******************************************************/
+
 #include <cmath>
 #include <cstdio>
 #include <cstring>
